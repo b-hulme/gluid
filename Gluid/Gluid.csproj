@@ -6,7 +6,7 @@
     <Authors>Brendan Hulme</Authors>
     <Description>Got an Int? Need a Guid? Get a Gluid.
 
-A simple, fast collection of extension methods that allow you to covert regular Int's and Long's to a Guid and back later without clashing with any system generated Guid.
+A simple, fast collection of extension methods that allow you to convert regular Int's and Long's to a Guid and back later without clashing with any system generated Guid.
 
 Useful for converting legacy Id's to distributed Id's without the need for a look-up table, or even for just hiding number data in a Guid.</Description>
     <Copyright>Copyright (c) 2019 Brendan Hulme</Copyright>
