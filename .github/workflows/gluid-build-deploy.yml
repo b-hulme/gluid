@@ -30,3 +30,4 @@ jobs:
         TAG_COMMIT: true
         # API key to authenticate with NuGet server
         NUGET_KEY: ${{ secrets.NuGetKey }}
+        INCLUDE_SYMBOLS: false
