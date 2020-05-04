@@ -17,7 +17,14 @@ This could have been done using look up tables however the performance then take
 Gluid's are very fast. Based on the initial testing most round-trip conversion occur in <1ms.
 
 # Installing
-Download the class file and put it somewhere appropriate in your project.
+If you're using Visual Studio you can use NuGet package manager and search for `Gluid`, then install the latest version into your project.
+
+If you're using the command line:
+```
+> Install-Package Gluid
+```
+
+Alternatively you can just download the class file and put it somewhere appropriate in your project.
 
 # Usage
 
